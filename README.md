@@ -1,7 +1,4 @@
 # Robotics Experiments
-Robotics experiments based on what I’ve learned at the UCL Robotics Society and beyond.
-
-## Experiments
 
 1. **LED Blinking**
    - Blinks an LED on and off at regular intervals (1s)
